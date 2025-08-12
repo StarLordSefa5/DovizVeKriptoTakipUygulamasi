@@ -14,6 +14,7 @@ Java Swing tabanlı masaüstü uygulamasıyla kripto para fiyatlarını CoinGeck
 
 
 ⚙️ Kurulum
+
 Bu projeyi indirin veya klonlayın.
 
 sqlite-jdbc kütüphanesini projeye ekleyin.
